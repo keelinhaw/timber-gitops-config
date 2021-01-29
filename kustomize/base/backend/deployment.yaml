@@ -11,7 +11,7 @@ spec:
     spec:
       containers:
       - name: timber-backend
-        image: docker.io/keelinhaw/timber-backend:28a8235484a828d3fd47c65a6664930b333eab6c
+        image: docker.io/keelinhaw/timber-backend:420aa6175bbd3f1400421e28a8c873fc63ab6383
         ports:
         - containerPort: 8080
         env:
